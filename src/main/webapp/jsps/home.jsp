@@ -34,20 +34,19 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		
 	</span>
 	<span style="font-weight: bold;">
-                Landmark Technology, 
-		Toronto, Ontario, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+                  USA
+		+1 240-486-1313,
+		Primus learning
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:mylandmarktech@gmail.com">Mail to Primuslearning.com</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
+<p align=center>Primus learning - Consultant, Training and Software Development</p>
+<p align=center><small>Copyrights 2021 by <a href="http://primuslearning/">primuslearning</a> </small></p>
 
 </body>
 </html>
