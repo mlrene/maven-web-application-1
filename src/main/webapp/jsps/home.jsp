@@ -15,7 +15,7 @@
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
 <br>
-	<h1><h3> Server Side IP Address </h3><br>
+	<h1><h3> Servers Side IP Address </h3><br>
 
 <% 
 String ip = "";
