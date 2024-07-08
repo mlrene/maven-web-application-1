@@ -36,7 +36,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<span style="font-weight: bold;">
                   USA
 		+1 240-486-1313,
-		Primus learning
+		prospect consultant
 		<br>
 		<a href="mailto:mylandmarktech@gmail.com">Mail to prospect@consultant@gmail.com</a>
 	</span>
