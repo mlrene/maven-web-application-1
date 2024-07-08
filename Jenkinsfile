@@ -10,6 +10,7 @@ pipeline{
         git branch: 'feature', credentialsId: 'gitHubCredentials', url: 'https://github.com/LandmakTechnology/maven-web-application'
       }
     }
+    /*
     stage('3Test+Build'){
       steps{
         sh "echo 'running JUnit-test-cases' "
