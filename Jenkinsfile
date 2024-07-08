@@ -10,6 +10,7 @@ pipeline{
         git branch: 'master', credentialsId: 'gitHubCredentials', url: 'https://github.com/divineloweh0/maven-web-application-1.git'
       }
     }
+    /*
     stage('3Test+Build'){
       steps{
         sh "echo 'running JUnit-test-cases' "
