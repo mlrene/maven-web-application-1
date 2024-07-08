@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Prospect consultant MOBILE-APP for 2024 Project.</h1>
+<h1 align="center">Welcome to Prospect consultant Mobile-app for 2024 Project.</h1>
 <h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
 	           We are raising over millionaires in IT.
 	We offer/ provide  Training for DevOps with Linux-admin and Cloud equipping IT Engineers for best performance.</h1>
