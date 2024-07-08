@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Primus learning MOBILE-APP for 2022 Project.</h1>
+<h1 align="center">Welcome to Prospect consultant MOBILE-APP for 2024 Project.</h1>
 <h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
 	           We are raising over millionaires in IT.
 	We offer/ provide  Training for DevOps with Linux-admin and Cloud equipping IT Engineers for best performance.</h1>
@@ -38,15 +38,15 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		+1 240-486-1313,
 		Primus learning
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Primuslearning.com</a>
+		<a href="mailto:mylandmarktech@gmail.com">Mail to prospect@consultant@gmail.com</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Primus learning - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2021 by <a href="http://primuslearning/">primuslearning</a> </small></p>
+<p align=center>Prospect - Consultant, Training and Software Development</p>
+<p align=center><small>Copyrights 2021 by <a href="http://prospect consultnat/">prospect consultant</a> </small></p>
 
 </body>
 </html>
